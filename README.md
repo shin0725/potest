@@ -1,2 +1,0 @@
-# potest
-Partner office moniteoling
